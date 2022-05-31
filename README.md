@@ -1,3 +1,4 @@
-# calculator
-simple calculator
-![image](https://user-images.githubusercontent.com/52295350/164126838-8a3c65f8-b31b-4801-8a2e-80cb57d76ed7.png)
+# calculator convert
+calculadora convertidora de binario a decimal y decimal a binario
+![image](https://user-images.githubusercontent.com/52295350/171301748-227ad70a-de26-4876-878b-0a92f19bb020.png)
+
